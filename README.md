@@ -1,2 +1,2 @@
 # front-end-metor-order-summary
-this repo contains my solution of front-end Mentor order summary challenge
+A front-end Mentor 
