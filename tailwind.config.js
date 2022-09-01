@@ -15,11 +15,11 @@ module.exports = {
     fontFamily:{
       'Red-hat-display':'Red Hat Display'
     },
-    backgroundImage:{
-      'background-pattern-mobile':"url('./dist/images/pattern-background-mobile.svg')",
-      'background-pattern-desktop':"url('./dist/images/pattern-background-desktop.svg')"
-    },
     extend: {
+      backgroundImage:{
+        'background-pattern-mobile':"url(./dist/images/pattern-background-mobile.svg')",
+        'background-pattern-desktop':"url('./dist/images/pattern-background-desktop.svg')"
+      },
       width:{
         'container-width':'21.25rem'
       }
